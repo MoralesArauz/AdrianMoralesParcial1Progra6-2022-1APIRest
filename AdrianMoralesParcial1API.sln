@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdrianMoralesParcial1API", "AdrianMoralesParcial1API\AdrianMoralesParcial1API.csproj", "{99CD4BBA-5AC3-4B5F-8710-F01D11F6FFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CD4BBA-5AC3-4B5F-8710-F01D11F6FFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CD4BBA-5AC3-4B5F-8710-F01D11F6FFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CD4BBA-5AC3-4B5F-8710-F01D11F6FFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CD4BBA-5AC3-4B5F-8710-F01D11F6FFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA71244-9FCF-44D1-BAF5-D1CB6988888A}
+	EndGlobalSection
+EndGlobal
